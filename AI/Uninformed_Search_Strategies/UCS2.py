@@ -1,11 +1,5 @@
-# Python3 implementation of above approach
-
-# returns the minimum cost in a vector( if
-# there are multiple goal states)
 def uniform_cost_search(goal, start):
 
-    # minimum cost upto
-    # goal state from starting
     global graph, cost
     answer = []
 
